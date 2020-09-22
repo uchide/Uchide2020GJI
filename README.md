@@ -17,4 +17,4 @@ Here, the focal mechanisms determined by Uchide (2020) is available. See Uchide2
 * Column 15: Number of stations used for the focal mechanism determination.
 
 ## References
-Uchide, T. (2020). Focal mechanisms of small earthquakes beneath the Japanese islands based on first-motion polarities picked using deep learning. Geophysical Journal International. https://doi.org/10.1093/gji/ggaa401
+Uchide, T. (2020). Focal mechanisms of small earthquakes beneath the Japanese islands based on first-motion polarities picked using deep learning. Geophysical Journal International, 223(3), 1658–1671, https://doi.org/10.1093/gji/ggaa401.
